@@ -5,9 +5,9 @@ return {
             bold = true,
         },
         TransPhonetic = {
-            -- link = 'Linenr'
-            fg = '#afff15',
-            bg = '#82aaff',
+            link = 'Linenr'
+            -- fg = '#afff15',
+            -- bg = '#2f2f2f',
         },
         TransTitle = {
             fg = '#0f0f15',
