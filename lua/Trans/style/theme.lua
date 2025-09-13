@@ -8,7 +8,7 @@ return {
             link = 'Linenr'
         },
         TransTitle = {
-            fg = '#afff15',
+            fg = '#0f0f15',
             bg = '#75beff',
             bold = true,
         },
@@ -60,7 +60,9 @@ return {
             bold = true,
         },
         TransPhonetic = {
-            link = 'Comment',
+            -- link = 'Comment',
+            fg = '#afff15',
+            bg = '#82aaff',
         },
         TransTitle = {
             fg = '#0f0f15',
