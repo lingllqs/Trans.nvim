@@ -151,4 +151,53 @@ return {
             link = 'MoreMsg'
         },
     },
+    custom = {
+        TransWord = {
+            fg = '#50fa7b',
+            bold = true,
+        },
+        TransPhonetic = {
+            -- fg = '#6272a4',
+            fg = '#aaffaf',
+        },
+        TransTitle = {
+            fg = '#0f0f15',
+            bg = '#bd93f9',
+            bold = true,
+        },
+        TransTitleRound = {
+            fg = '#bd93f9',
+        },
+        TransTag = {
+            fg = '#ffb86c',
+        },
+        TransExchange = {
+            link = 'TransTag',
+        },
+        TransPos = {
+            link = 'TransTag',
+        },
+        TransTranslation = {
+            link = 'TransWord',
+        },
+        TransDefinition = {
+            fg = '#8be9fd',
+        },
+        TransWin = {
+            link = 'Normal',
+        },
+        TransBorder = {
+            fg = '#9274c0',
+        },
+        TransCollins = {
+            fg = '#f1fa8c',
+            bold = true,
+        },
+        TransFailed = {
+            fg = '#8be9fd',
+        },
+        TransWaitting = {
+            link = 'MoreMsg'
+        },
+    },
 }
