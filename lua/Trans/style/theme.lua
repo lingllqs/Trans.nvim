@@ -8,7 +8,7 @@ return {
             link = 'Linenr'
         },
         TransTitle = {
-            fg = '#0f0f15',
+            fg = '#afff15',
             bg = '#75beff',
             bold = true,
         },
