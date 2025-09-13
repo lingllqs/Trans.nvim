@@ -5,8 +5,8 @@ return {
             bold = true,
         },
         TransPhonetic = {
-            -- link = 'Linenr'
-            fg = '#afff15',
+            link = 'Linenr'
+            -- fg = '#afff15',
         },
         TransTitle = {
             fg = '#0f0f15',
